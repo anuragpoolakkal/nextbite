@@ -3,7 +3,7 @@ import { BsTwitter, BsPinterest } from "react-icons/bs";
 
 const Footer = () => {
 	return (
-		<div className="container pt-40">
+		<div className="container pt-40 pb-10">
 			<div className="grid md:grid-cols-3 gap-6">
 				<div className="space-y-4">
 					<h2 className="text-xl font-bold">About Us</h2>

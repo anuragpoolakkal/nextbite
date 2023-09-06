@@ -21,7 +21,7 @@ const Hero = () => {
 						Wide options of choice
 					</p>
 					<h2 className="font-bold text-4xl sm:text-6xl">
-						Delicious <span className="text-accent">food</span>
+						Delicious <span className="text-accent">Food</span>
 					</h2>
 					<p className="text-gray-700 text-[14px] sm:text-[16px]">
 						Delicious food colour, aroma and taste.
